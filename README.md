@@ -45,8 +45,8 @@ The pipeline is scheduled to run automatically every day at 5:00 AM UTC using th
 ## Setup
 1. Clone the repository to your local machine:
 ```bash
-git clone {https://github.com/matiasjuarez.95/workflow.git}
-cd workflow
+git clone {https://github.com/matiasjuarez95/Mage-GCP-Postgres.git}
+cd Mage-GCP-Postgres
 ```
 2. Copy the `devenv` file to `env`.
 3. Create a bucket in Google Cloud Storage and set up access credentials.
